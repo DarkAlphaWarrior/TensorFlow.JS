@@ -9,7 +9,8 @@ A step-by-step description of the code is available in Codelab on Google I/O 19.
 How to experience
 This example classifies images.
 
-    1.First, connect to the site to use this example and then grant WebCam privileges. (WebCam privileges are required for          learning.)
+    1.First, connect to the site to use this example and then grant WebCam privileges.
+    (WebCam privileges are required for learning.)
 
     2.Take a pose or something that corresponds to each class of four (A to D) and press the Train X button.
 
