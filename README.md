@@ -3,8 +3,6 @@ Image classifier on Tensorflow.js
 -------------------------------------------------------------------------------------------------------------------------------
 Tensorflow.js Transfer Learning Image Classifier Example
 -------------------------------------------------------------------------------------------------------------------------------
-Description
-A step-by-step description of the code is available in Codelab on Google I/O 19. And if you want to run this example yourself, visit https://9bow.github.io/TensorflowJS-Codelab-Transfer-Learning-Image-Classifier.
 
 How to experience
 This example classifies images.
